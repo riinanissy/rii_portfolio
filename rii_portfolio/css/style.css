@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+.navbar-brand {
+    font-size: 25px;
+}
+
+.top {
+    background-image: url(../img/main-vsual-nontitle.png);
+    background-size: cover;
+    font-family: うずらフォント, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@media (max-width: 767.98px) {
+    .top-title {
+      font-size: 40px;
+    }
+   }
+
+   .form-control {
+    border-radius: 999px;
+   }
